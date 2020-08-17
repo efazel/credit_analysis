@@ -3,5 +3,5 @@ This repository performs credit risk analysis to model the probability of defaul
 ## Data
 The loan dataset is available in Kaggle. Click [here](https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank) for more information.
 ## Methodology
-The methodology of this exercise follows closely the one presented in [Credit Risk Modeling in Python](https://www.udemy.com/course/credit-risk-modeling-in-python/) available in Udemy.
+The methodology of this exercise follows closely the one presented in [Credit Risk Modeling in Python](https://www.udemy.com/course/credit-risk-modeling-in-python/).
 
