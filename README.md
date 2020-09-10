@@ -1,4 +1,4 @@
-# Credit Risk Modeling (ongoing project - incomplete)
+# Credit Risk Modeling (ongoing - incomplete)
 This repository performs credit risk analysis to model the probability of default for bank loans. The project consists of multiple stages. In the first stage, preprocessing, I prepare discrete and continuous data to be used subsequently in the PD model. 
 ## Data
 The loan dataset is available in Kaggle. Click [here](https://www.kaggle.com/mrferozi/loan-data-for-dummy-bank) for more information.
